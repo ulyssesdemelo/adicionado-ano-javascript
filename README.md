@@ -1,2 +1,2 @@
 # Ano corrente com JavaScript
-Adicionado o ano no rodapé com HTML e JavaScript
+Adicionando o ano no rodapé com HTML e JavaScript
